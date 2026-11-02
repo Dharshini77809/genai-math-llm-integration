@@ -80,3 +80,4 @@ for item in response.output:
 
 
 ### RESULT:
+The Python program successfully calculates the area of a regular pentagon using OpenAI function calling.
